@@ -1,0 +1,11 @@
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.csproj.AssemblyReference.cache
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.frm.resources
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.cache
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.csproj.CoreCompileInputs.cache
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\bin\Debug\Buoi3.exe.config
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\bin\Debug\Buoi3.exe
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\bin\Debug\Buoi3.pdb
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.exe
+C:\Users\Binh\source\repos\Nhom 14\Buoi3\obj\Debug\Buoi3.pdb
