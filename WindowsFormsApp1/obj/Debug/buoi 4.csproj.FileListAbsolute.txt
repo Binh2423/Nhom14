@@ -1,0 +1,16 @@
+D:\CodeWindown\Nhom14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CodeWindown\Nhom14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CodeWindown\Nhom14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CodeWindown\Nhom14\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\CodeWindown\Nhom14\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodeWindown\Nhom14\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\CodeWindown\Nhom14\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\buoi 4.csproj.AssemblyReference.cache
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\buoi 4.csproj.SuggestedBindingRedirects.cache
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm.resources
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\buoi 4.csproj.GenerateResource.cache
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\buoi 4.csproj.CoreCompileInputs.cache
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\buoi 4.csproj.CopyComplete
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CodeWindown\Nhom14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
