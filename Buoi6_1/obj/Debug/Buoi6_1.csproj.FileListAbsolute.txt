@@ -1,0 +1,16 @@
+D:\CodeWindown\Nhom14\Buoi6_1\bin\Debug\Buoi6_1.exe.config
+D:\CodeWindown\Nhom14\Buoi6_1\bin\Debug\Buoi6_1.exe
+D:\CodeWindown\Nhom14\Buoi6_1\bin\Debug\Buoi6_1.pdb
+D:\CodeWindown\Nhom14\Buoi6_1\bin\Debug\EntityFramework.dll
+D:\CodeWindown\Nhom14\Buoi6_1\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodeWindown\Nhom14\Buoi6_1\bin\Debug\EntityFramework.xml
+D:\CodeWindown\Nhom14\Buoi6_1\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.csproj.AssemblyReference.cache
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.csproj.SuggestedBindingRedirects.cache
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.frmSV.resources
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.Properties.Resources.resources
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.csproj.GenerateResource.cache
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.csproj.CoreCompileInputs.cache
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.csproj.CopyComplete
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.exe
+D:\CodeWindown\Nhom14\Buoi6_1\obj\Debug\Buoi6_1.pdb
